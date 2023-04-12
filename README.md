@@ -17,7 +17,9 @@ Welcome to the Core Machine Learning Course focused on Regression Analysis! 🎉
 * A curated learning plan for beginners to complete the course in just one month, along with required reading materials. 🗓️
 
 ### Getting Started 🚀
-To get the most out of this course, sign up for free via our Learning Management System (LMS) by following the link provided in the course GitHub repository. By signing up, you will receive free updates, have your assignments checked, and gain access to the carefully crafted learning plan. 🖊️
+To get the most out of this course, sign up for free via our Learning Management System (LMS) by following this [link](https://lms.antern.co/courses/core-machine-learning-regression-analysis). By signing up, you will receive free updates, have your assignments checked, and gain access to the carefully crafted learning plan. 🖊️  
+
+All the materials is uploaded in the lms! 
 
 ### Course Content 📋
 
